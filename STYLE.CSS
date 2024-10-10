@@ -1,0 +1,34 @@
+body{
+    text-align: center;
+    justify-content: center;
+    background-image: url('./coffee.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.omo{
+    display: inline-flex;
+    justify-content: center;
+    position: relative;
+    padding: 5px;
+    border: 5px;
+    gap: 5px;
+    flex-direction: row;
+}
+.ayuba{
+    display: inline-flex;
+    justify-content: center;
+    position: relative;
+    padding: 5px;
+    border: 5px;
+    gap: 5px;
+    flex-direction: row;
+}
+.my{
+    display: inline-flex;
+    justify-content: center;
+    position: relative;
+    padding: 5px;
+    border: 5px;
+    gap: 5px;
+    flex-direction: row; 
+}
